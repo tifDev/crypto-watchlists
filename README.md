@@ -33,6 +33,8 @@ Based on [coinmarketcap](https://coinmarketcap.com/).
 
 🖼️ [Art/NFT's/Collectibles](https://coinmarketcap.com/watchlist/6179a697cf54ea39e5efe9c4)
 
+🎞️ [Vídeo Streaming](https://coinmarketcap.com/watchlist/6179a6a17fc35645186f434e)
+
 ## Quick Start
 
 * [Create a new issue/request](https://github.com/tifDev/crypto-watchlists/issues/new/choose)
