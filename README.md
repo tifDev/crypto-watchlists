@@ -35,7 +35,7 @@ Based on [coinmarketcap](https://coinmarketcap.com/).
 
 🎞️ [Vídeo Streaming](https://coinmarketcap.com/watchlist/6179a6a17fc35645186f434e)
 
-👥 [Social](https://coinmarketcap.com/watchlist/607602d3c3fc3dead7c3dbee)
+👥 [Social](https://coinmarketcap.com/watchlist/6245c65c0e35f923115279f8)
 
 
 ## Quick Start
