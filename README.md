@@ -35,6 +35,9 @@ Based on [coinmarketcap](https://coinmarketcap.com/).
 
 🎞️ [Vídeo Streaming](https://coinmarketcap.com/watchlist/6179a6a17fc35645186f434e)
 
+👥 [Social](https://coinmarketcap.com/watchlist/607602d3c3fc3dead7c3dbee)
+
+
 ## Quick Start
 
 * [Create a new issue/request](https://github.com/tifDev/crypto-watchlists/issues/new/choose)
